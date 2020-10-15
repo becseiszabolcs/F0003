@@ -1,0 +1,6 @@
+csilag_jegy=input('csilag jegy: ')
+születési_év=input('születési év: ')
+vezeték_név=input('vezeték név: ')
+kereszt_név=input('kereszt név: ')
+
+print(f"A csilag jegyed {csilag_jegy}? és a születési éved {születési_év} a neved {vezeték_név} {kereszt_név}.")
