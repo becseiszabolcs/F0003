@@ -1,0 +1,4 @@
+a=input('vezeték név: ')
+b=input('kereszt név: ')
+
+print(f"a neved {a} {b}")
